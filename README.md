@@ -12,7 +12,3 @@ Currently the following functions are implemented:
 * Get selected item details
 
 ![](https://github.com/rohitnotes/SelectMultipleItemInRecyclerView/blob/master/screen/working.gif)
-
-<img src="https://github.com/rohitnotes/SelectMultipleItemInRecyclerView/blob/master/screen/working.gif" width="40" height="40" />
-
-
